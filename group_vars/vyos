@@ -1,0 +1,4 @@
+ansible_network_os: vyos
+ansible_user: vagrant
+ansible_password: vagrant
+

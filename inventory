@@ -1,2 +1,9 @@
 [servers]
 server[a:d]
+
+[network]
+vyos
+
+[vyos]
+vyos
+
